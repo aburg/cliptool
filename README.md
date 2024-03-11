@@ -1,7 +1,9 @@
-# Tauri + Svelte + Typescript
+# cliptool
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+This is for my father.
+He copies files to the clipboard and wants to only get the filenames without path from them.
+I tried it with tauri+sveltekit and it worked.
 
-## Recommended IDE Setup
+(Released only as a debian package i ran successfully Ubuntu 22.04.4 LTS.)
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+I don't even know, if this runs on wayland?!
